@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-19T11:58:24+00:00",
+  "title": "Design System: Jayson Williams Landscaping",
+  "extensions": {
+    "colorMeta": {
+      "mower-orange": {
+        "role": "primary",
+        "displayName": "Mower Orange",
+        "canonical": "oklch(70.7% 0.165 51)",
+        "tonalRamp": [
+          "#1d0200",
+          "#401800",
+          "#6a2e00",
+          "#984600",
+          "#ca6000",
+          "#f48233",
+          "#ffb68c",
+          "#feeade"
+        ]
+      },
+      "mower-orange-hi": {
+        "role": "primary",
+        "displayName": "Mower Orange High",
+        "canonical": "oklch(76.8% 0.141 56)",
+        "tonalRamp": [
+          "#1b0400",
+          "#3d1a00",
+          "#663200",
+          "#934b00",
+          "#c06814",
+          "#e78b42",
+          "#ffb783",
+          "#ffeadc"
+        ]
+      },
+      "orange-ink": {
+        "role": "primary",
+        "displayName": "Orange Ink",
+        "canonical": "oklch(19.5% 0.028 63)",
+        "tonalRamp": [
+          "#130801",
+          "#2f2216",
+          "#4d3f32",
+          "#6d5e51",
+          "#8f7f71",
+          "#b2a293",
+          "#d7c6b7",
+          "#fdebdb"
+        ]
+      },
+      "grass": {
+        "role": "secondary",
+        "displayName": "Fresh Grass",
+        "canonical": "oklch(77.3% 0.144 132)",
+        "tonalRamp": [
+          "#030f00",
+          "#162c00",
+          "#2c4d00",
+          "#437000",
+          "#61932b",
+          "#83b751",
+          "#a6dd76",
+          "#d3ffae"
+        ]
+      },
+      "step-green": {
+        "role": "secondary",
+        "displayName": "Step Green",
+        "canonical": "oklch(55.5% 0.129 138)",
+        "tonalRamp": [
+          "#001100",
+          "#0a2e00",
+          "#1b4f00",
+          "#387120",
+          "#599444",
+          "#7cb867",
+          "#9fdd8a",
+          "#ceffbe"
+        ]
+      },
+      "chip-on": {
+        "role": "secondary",
+        "displayName": "Chip-On Green",
+        "canonical": "oklch(42.1% 0.092 144)",
+        "tonalRamp": [
+          "#001100",
+          "#002f02",
+          "#1e4e20",
+          "#3e6f3f",
+          "#5f915f",
+          "#81b480",
+          "#a5d9a4",
+          "#caffc9"
+        ]
+      },
+      "stripe-light": {
+        "role": "tertiary",
+        "displayName": "Stripe Light",
+        "canonical": "oklch(65.7% 0.143 135)",
+        "tonalRamp": [
+          "#011000",
+          "#122d00",
+          "#264e00",
+          "#3a7200",
+          "#5b9433",
+          "#7db857",
+          "#a1de7c",
+          "#d1ffb7"
+        ]
+      },
+      "stripe-dark": {
+        "role": "tertiary",
+        "displayName": "Stripe Dark",
+        "canonical": "oklch(52.0% 0.124 138)",
+        "tonalRamp": [
+          "#001100",
+          "#092e00",
+          "#1a5000",
+          "#397125",
+          "#5a9447",
+          "#7db76a",
+          "#a0dd8d",
+          "#ceffbf"
+        ]
+      },
+      "turf": {
+        "role": "tertiary",
+        "displayName": "Turf",
+        "canonical": "oklch(41.4% 0.093 139)",
+        "tonalRamp": [
+          "#001100",
+          "#092e00",
+          "#264d18",
+          "#456e38",
+          "#659058",
+          "#87b37a",
+          "#abd89d",
+          "#cffec2"
+        ]
+      },
+      "mulch": {
+        "role": "tertiary",
+        "displayName": "Mulch",
+        "canonical": "oklch(28.7% 0.041 56)",
+        "tonalRamp": [
+          "#170600",
+          "#342011",
+          "#533c2d",
+          "#745c4b",
+          "#967c6b",
+          "#ba9f8d",
+          "#dfc3b0",
+          "#feeadd"
+        ]
+      },
+      "leaf-rust": {
+        "role": "tertiary",
+        "displayName": "Leaf Rust",
+        "canonical": "oklch(63.2% 0.164 43)",
+        "tonalRamp": [
+          "#200000",
+          "#441200",
+          "#712700",
+          "#a23c00",
+          "#cf5920",
+          "#f77d49",
+          "#ffb597",
+          "#ffe9e1"
+        ]
+      },
+      "leaf-gold": {
+        "role": "tertiary",
+        "displayName": "Leaf Gold",
+        "canonical": "oklch(76.4% 0.142 72)",
+        "tonalRamp": [
+          "#170700",
+          "#361f00",
+          "#5c3a00",
+          "#855600",
+          "#b17301",
+          "#db9529",
+          "#feba5f",
+          "#ffebd4"
+        ]
+      },
+      "spruce": {
+        "role": "neutral",
+        "displayName": "Spruce",
+        "canonical": "oklch(28.4% 0.038 179)",
+        "tonalRamp": [
+          "#00100b",
+          "#0d2b25",
+          "#2b4942",
+          "#4a6961",
+          "#6a8a82",
+          "#8cada5",
+          "#b0d2c9",
+          "#d5f7ef"
+        ]
+      },
+      "spruce-raised": {
+        "role": "neutral",
+        "displayName": "Spruce Raised",
+        "canonical": "oklch(33.8% 0.045 177)",
+        "tonalRamp": [
+          "#00100b",
+          "#052c25",
+          "#254a42",
+          "#456a61",
+          "#658c82",
+          "#87afa5",
+          "#abd3c9",
+          "#d0f9ee"
+        ]
+      },
+      "dew": {
+        "role": "neutral",
+        "displayName": "Dew",
+        "canonical": "oklch(95.4% 0.017 125)",
+        "tonalRamp": [
+          "#090c05",
+          "#23271e",
+          "#40443a",
+          "#5f6359",
+          "#808479",
+          "#a2a79c",
+          "#c6cbc0",
+          "#ecf1e5"
+        ]
+      },
+      "dew-shade": {
+        "role": "neutral",
+        "displayName": "Dew Shade",
+        "canonical": "oklch(90.9% 0.029 129)",
+        "tonalRamp": [
+          "#080d02",
+          "#212819",
+          "#3d4535",
+          "#5c6553",
+          "#7d8674",
+          "#9fa996",
+          "#c3cdba",
+          "#e9f3de"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(25.0% 0.028 168)",
+        "tonalRamp": [
+          "#010f09",
+          "#172922",
+          "#34473f",
+          "#53665e",
+          "#73887f",
+          "#95aba2",
+          "#b9cfc5",
+          "#def5eb"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Ink Soft",
+        "canonical": "oklch(42.9% 0.037 162)",
+        "tonalRamp": [
+          "#001006",
+          "#132b1f",
+          "#30483c",
+          "#4f685b",
+          "#6f8a7b",
+          "#91ad9e",
+          "#b5d1c2",
+          "#daf7e7"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "On-Dark",
+        "canonical": "oklch(96.5% 0.013 126)",
+        "tonalRamp": [
+          "#0a0c07",
+          "#232620",
+          "#40433c",
+          "#5f635b",
+          "#80847c",
+          "#a3a79e",
+          "#c7cbc2",
+          "#ecf0e7"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "On-Dark Soft",
+        "canonical": "oklch(83.1% 0.029 147)",
+        "tonalRamp": [
+          "#040e05",
+          "#1c291d",
+          "#384639",
+          "#576658",
+          "#788779",
+          "#9aaa9b",
+          "#becfbf",
+          "#e3f4e4"
+        ]
+      },
+      "focus-blue": {
+        "role": "neutral",
+        "displayName": "Focus Blue",
+        "canonical": "oklch(72.2% 0.148 252)",
+        "tonalRamp": [
+          "#000a25",
+          "#00254c",
+          "#00427d",
+          "#0162b2",
+          "#3485d8",
+          "#5aa9ff",
+          "#a3cdfe",
+          "#e3f0ff"
+        ]
+      },
+      "focus-blue-deep": {
+        "role": "neutral",
+        "displayName": "Focus Blue Deep",
+        "canonical": "oklch(54.9% 0.169 256)",
+        "tonalRamp": [
+          "#00072b",
+          "#002352",
+          "#003f86",
+          "#035dbe",
+          "#3381e5",
+          "#65a6fe",
+          "#a7ccfe",
+          "#e5f0fe"
+        ]
+      },
+      "error-peach": {
+        "role": "neutral",
+        "displayName": "Error Peach",
+        "canonical": "oklch(82.4% 0.106 46)",
+        "tonalRamp": [
+          "#1f0100",
+          "#421500",
+          "#6d2b00",
+          "#914b27",
+          "#b66d49",
+          "#dc906b",
+          "#ffb692",
+          "#feeae0"
+        ]
+      },
+      "placeholder": {
+        "role": "neutral",
+        "displayName": "Placeholder",
+        "canonical": "oklch(74.5% 0.034 152)",
+        "tonalRamp": [
+          "#010f05",
+          "#182a1d",
+          "#344739",
+          "#536758",
+          "#748978",
+          "#96ac9b",
+          "#b9d0be",
+          "#def6e4"
+        ]
+      },
+      "field-line": {
+        "role": "neutral",
+        "displayName": "Field Line",
+        "canonical": "rgba(241,245,236,.5)"
+      },
+      "hairline-ink": {
+        "role": "neutral",
+        "displayName": "Ink Hairline",
+        "canonical": "rgba(20,38,31,.14)"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline only; two unbroken uppercase lines."
+      },
+      "display-slogan": {
+        "displayName": "Display Slogan",
+        "purpose": "Closing three-line slogan above the closing lawn."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Uppercase section heads."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service row names (step titles at 19px)."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Hero promise line, 30-31ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All running copy."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Buttons, legends, field labels."
+      },
+      "small": {
+        "displayName": "Small",
+        "purpose": "Form note, errors, chip text."
+      }
+    },
+    "shadows": [
+      {
+        "name": "mower-cast",
+        "value": "canvas shadowBlur 5px, rgba(6,18,4,.5), offset 2.5px 4.5px",
+        "purpose": "The mower's shadow on the lawn canvas; the only shadow in the system. Never on UI."
+      }
+    ],
+    "motion": [
+      {
+        "name": "color-transition",
+        "value": "0.18s",
+        "purpose": "Hover color changes on buttons, links, service arrows."
+      },
+      {
+        "name": "control-transition",
+        "value": "0.15s",
+        "purpose": "Chip and field border/background changes."
+      },
+      {
+        "name": "press",
+        "value": "transform 0.12s, translateY(1px)",
+        "purpose": "Button active nudge."
+      },
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Chip pop (260ms) and clipping spray (540ms)."
+      },
+      {
+        "name": "grass-regrow",
+        "value": "9s",
+        "purpose": "Cut grass regrowth in the lawn engine (CFG.GROW)."
+      },
+      {
+        "name": "mower-idle-resume",
+        "value": "2.5s",
+        "purpose": "Delay before the mower autopilots again after the visitor lets go (CFG.IDLE)."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "tablet",
+        "value": "600px"
+      },
+      {
+        "name": "phone-landscape",
+        "value": "(orientation:landscape) and (max-height:500px) and (max-width:1023px)"
+      },
+      {
+        "name": "desktop",
+        "value": "1024px"
+      },
+      {
+        "name": "content-max",
+        "value": "1180px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Mower-orange fill for every action.",
+      "html": "<div class=\"ds-root\" style=\"background:#12302a;padding:20px\"><a class=\"ds-btn ds-btn-fill\" href=\"#\">Get a free quote</a></div>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;padding:0 16px;border-radius:14px;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-weight:800;font-size:17px;line-height:1.1;text-decoration:none;border:2px solid transparent;cursor:pointer;transition:background-color .18s,border-color .18s,color .18s,transform .12s}.ds-btn:active{transform:translateY(1px)}.ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px}.ds-btn-fill{background:var(--orange);border-color:var(--orange);color:var(--orange-ink)}@media (hover:hover){.ds-btn-fill:hover{background:var(--orange-hi);border-color:var(--orange-hi)}}"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Secondary hero action on spruce (Text us).",
+      "html": "<div class=\"ds-root\" style=\"background:#12302a;padding:20px\"><a class=\"ds-btn ds-btn-line\" href=\"#\">Text us</a></div>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;padding:0 16px;border-radius:14px;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-weight:800;font-size:17px;line-height:1.1;text-decoration:none;border:2px solid transparent;cursor:pointer;transition:background-color .18s,border-color .18s,color .18s,transform .12s}.ds-btn:active{transform:translateY(1px)}.ds-btn:focus-visible{outline:3px solid var(--focus);outline-offset:3px}.ds-btn-line{color:var(--on-dark);border-color:rgba(241,245,236,.55)}@media (hover:hover){.ds-btn-line:hover{border-color:var(--on-dark);background:rgba(241,245,236,.08)}}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input-field",
+      "description": "Spruce-raised field with a blue outline on hover and focus.",
+      "html": "<div class=\"ds-root\" style=\"background:#12302a;padding:20px;color:#f1f5ec;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;\"><label class=\"ds-label\" for=\"ds-t\">Address or town</label><input class=\"ds-input\" id=\"ds-t\" type=\"text\" placeholder=\"Hamilton, NJ\"></div>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-label{display:block;font-weight:800;font-size:17px;margin-bottom:10px}.ds-input{display:block;width:100%;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:17px;color:var(--on-dark);background:var(--spruce-2);border:2px solid var(--field-line);border-radius:12px;padding:13px 14px;min-height:52px;caret-color:var(--orange)}.ds-input::placeholder{color:var(--placeholder);opacity:1}.ds-input:focus{outline:2px solid var(--focus);outline-offset:2px}@media (hover:hover){.ds-input:hover{outline:2px solid var(--focus);outline-offset:2px}}.ds-input[aria-invalid=true]{border-color:var(--err)}"
+    },
+    {
+      "name": "Service Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Checkbox chip with a drawn tick box; grass when checked.",
+      "html": "<div class=\"ds-root\" style=\"background:#12302a;padding:20px;color:#f1f5ec;display:flex;gap:10px;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;\"><label class=\"ds-chip\"><input type=\"checkbox\" checked><span>Leaf removal</span></label><label class=\"ds-chip\"><input type=\"checkbox\"><span>Mulching</span></label></div>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-chip{position:relative;display:flex}.ds-chip input{position:absolute;opacity:0;width:1px;height:1px;margin:0}.ds-chip span{display:inline-flex;align-items:center;gap:9px;min-height:52px;padding:6px 12px;border-radius:12px;font-size:16px;font-weight:700;line-height:1.15;background:var(--spruce-2);border:2px solid var(--field-line);cursor:pointer;transition:background-color .15s,border-color .15s}.ds-chip span::before{content:\"\";width:18px;height:18px;flex:none;border-radius:5px;border:2px solid rgba(241,245,236,.55);box-sizing:border-box}.ds-chip input:checked+span{background:var(--chip-on);border-color:var(--grass)}.ds-chip input:checked+span::before{border-color:var(--grass);background:var(--grass) url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M2.2 6.3 4.9 9 9.8 3.2' fill='none' stroke='%2314261f' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E\") center/12px no-repeat}.ds-chip input:focus-visible+span{outline:2px solid var(--focus);outline-offset:2px}@media (hover:hover){.ds-chip span:hover{outline:2px solid var(--focus);outline-offset:2px}}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "Ruled list row on dew; only the arrow turns orange on hover.",
+      "html": "<div class=\"ds-root\" style=\"background:#edf2e6;padding:20px\"><ul class=\"ds-svc-list\"><li><button class=\"ds-svc\" type=\"button\">Lawn care<span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" aria-hidden=\"true\"><path d=\"M5 12h13M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button></li><li><button class=\"ds-svc\" type=\"button\">Hedge trimming<span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" aria-hidden=\"true\"><path d=\"M5 12h13M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button></li></ul></div>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-svc-list{list-style:none;margin:0;padding:0;border-top:1px solid rgba(20,38,31,.14)}.ds-svc{appearance:none;background:none;border:0;border-bottom:1px solid rgba(20,38,31,.14);border-radius:0;margin:0;display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;min-height:60px;padding:10px 2px;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-weight:800;font-size:20px;line-height:1.2;color:var(--ink);text-align:left;cursor:pointer}.ds-svc:hover,.ds-svc:focus-visible{outline:none;background:none}.ds-arrow{display:grid;place-items:center;width:38px;height:38px;flex:none;border-radius:50%;background:var(--dew-2);color:var(--ink);transition:background-color .18s,color .18s}.ds-arrow svg{transition:transform .18s}.ds-svc:focus-visible .ds-arrow{background:var(--orange);color:var(--orange-ink);outline:3px solid var(--focus-light);outline-offset:3px}@media (hover:hover){.ds-svc:hover .ds-arrow{background:var(--orange);color:var(--orange-ink)}.ds-svc:hover .ds-arrow svg{transform:translateX(2px)}}"
+    },
+    {
+      "name": "Header Bar",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Wordmark left, tap-to-call number right; not sticky.",
+      "html": "<header class=\"ds-root ds-bar\"><a class=\"ds-brand\" href=\"#\"><b>Jayson Williams</b><small>Landscaping</small></a><a class=\"ds-call\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"17\" height=\"17\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z\"/></svg>609-937-8650</a></header>",
+      "css": ":host,.ds-root{--spruce:#12302a;--spruce-2:#1a3f37;--dew:#edf2e6;--dew-2:#dbe5d1;--ink:#14261f;--on-dark:#f1f5ec;--on-dark-2:#bccdbd;--grass:#93c862;--orange:#ef7d2d;--orange-hi:#f79a52;--orange-ink:#1e1207;--focus:#5aa9ff;--focus-light:#1f6fd1;--chip-on:#2a5a2b;--field-line:rgba(241,245,236,.5);--placeholder:#9db3a2;--err:#ffb08a}.ds-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:64px;padding:8px 16px;background:var(--spruce);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;}.ds-brand{display:flex;flex-direction:column;text-decoration:none;color:var(--on-dark);line-height:1}.ds-brand b{font-weight:900;font-size:16px;text-transform:uppercase;letter-spacing:.01em}.ds-brand small{font-size:11px;font-weight:800;letter-spacing:.3em;text-transform:uppercase;color:var(--grass);margin-top:5px}.ds-call{display:inline-flex;align-items:center;gap:7px;min-height:44px;color:var(--on-dark);font-weight:800;font-size:16px;text-decoration:none;white-space:nowrap;font-variant-numeric:tabular-nums;transition:color .18s}.ds-call svg{color:var(--grass)}@media (hover:hover){.ds-call:hover{color:var(--orange-hi)}}.ds-call:focus-visible,.ds-brand:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    },
+    {
+      "name": "Lawn Fallback Stripe",
+      "kind": "custom",
+      "refersTo": "living-lawn",
+      "description": "The no-JS mowing-stripe ground under every lawn canvas; the live lawn draws over it.",
+      "html": "<div class=\"ds-lawn\" aria-hidden=\"true\"></div>",
+      "css": ".ds-lawn{height:200px;background:repeating-linear-gradient(180deg,#6aa443 0 44px,#41792d 44px 88px)}"
+    },
+    {
+      "name": "Section Headline",
+      "kind": "custom",
+      "refersTo": "typography.headline",
+      "description": "Uppercase 900 section head on dew.",
+      "html": "<div class=\"ds-root\" style=\"background:#edf2e6;padding:20px\"><h2 class=\"ds-h2\">What we do</h2></div>",
+      "css": ".ds-h2{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-weight:900;text-transform:uppercase;letter-spacing:-.02em;font-size:clamp(1.9rem,8vw,3rem);line-height:.98;color:#14261f}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Fresh-Cut Lawn",
+    "overview": "The site is a yard on a fall afternoon: deep spruce ground, a dew-light working section, and a living lawn that a small orange push mower cuts into light and dark stripes while autumn leaves drift onto it. The visitor can take the handle and mow it. Every other surface is plain and strong, like a crew's truck lettering: heavy uppercase display, sentence-case body, one orange for every action.\n\nDensity is phone-first and generous: one column at 360 to 430px, big touch targets (52 to 60px), short copy. On desktop the hero splits into copy and lawn side by side, and the services and steps sit in two columns. Depth comes from the lawn's own material (stripes, mulch, leaves, clippings, the mower's cast shadow), never from UI chrome.\n\nConfirmed rejections from the direction: the landscaper template's stock lawn photo, icon-card services grid, and stat counters. Under Ellie's pitch-site house rules: no web font, no sticky bottom bar, no black page ground.",
+    "keyCharacteristics": [
+      "Spruce-and-dew grounds; mower orange is the only action color and the mower itself.",
+      "Heavy uppercase system sans for display and wordmark; plain sentence-case body.",
+      "The mowable lawn is the signature, repeated as hero lawn, grass divider strip, desktop side lawn, and closing lawn.",
+      "Flat UI; the only shadow belongs to the mower on the grass.",
+      "Blue outlines mean \"this control is live\" on form controls and focus."
+    ],
+    "rules": [
+      {
+        "name": "The Mower Orange Rule",
+        "body": "Orange is the action color and the mower, nothing else. No orange headings, borders, rules, or decoration. Leaves are rust and gold, not mower orange.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Grounds Rule",
+        "body": "Every section sits on Spruce or Dew. No black ground, no third surface color; the lawn is the only other \"ground\".",
+        "section": "colors"
+      },
+      {
+        "name": "The Blue Means Live Rule",
+        "body": "Focus Blue appears only as an outline: on form controls and the submit button at hover and focus, and as the global focus-visible ring. Use Focus Blue Deep where the ring lands on Dew.",
+        "section": "colors"
+      },
+      {
+        "name": "The Shout And Talk Rule",
+        "body": "Uppercase 900 is for display, headlines, the wordmark, and the footer name. Everything else is sentence case at 400 to 800. Never uppercase body, buttons, or labels.",
+        "section": "typography"
+      },
+      {
+        "name": "The Unbroken Line Rule",
+        "body": "Display lines are authored as separate spans that never wrap internally; the headline breaks at the slogan's own periods, not wherever the viewport cuts.",
+        "section": "typography"
+      },
+      {
+        "name": "The Display Carries Hierarchy Rule",
+        "body": "Body steps stay within 16 to 22px; the jump to the 40 to 96px display and 30 to 48px headline does the ranking. (Recorded as a detector exception for flat-type-hierarchy.)",
+        "section": "typography"
+      },
+      {
+        "name": "The Lawn Interval Rule",
+        "body": "The lawn is the section divider: hero lawn after the first screen, a 30px grass strip between the dew section and the quote, a side lawn beside the form on desktop only, and the closing lawn under the slogan. New sections are separated by lawn or by a ground change, never by drawn rules or cards.",
+        "section": "layout"
+      },
+      {
+        "name": "The Only Shadow Is On The Grass Rule",
+        "body": "Shadows exist only inside the lawn canvas, cast by objects on it. Interface elements never cast shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** put every action on Mower Orange with Orange Ink text, and keep the mower the same orange.",
+      "**Do** set display and section heads in 900 uppercase system sans with -0.02em to -0.03em tracking, and keep each display line on one line.",
+      "**Do** separate sections with lawn or a Spruce/Dew ground change.",
+      "**Do** give form controls (inputs, textarea, chips, submit) a Focus Blue (#5aa9ff) outline on hover and focus.",
+      "**Do** gate every hover style behind `(hover:hover)`.",
+      "**Do** keep touch targets at 52px or more (buttons 56px, service rows 60px).",
+      "**Do** show the phone number on the first screen only in the header's top-right, and the email only in the footer.",
+      "**Do** honor reduced motion: still lawn, no pops, no transitions."
+    ],
+    "donts": [
+      "**Don't** use a stock lawn photo, an icon-card services grid, or stat counters.",
+      "**Don't** load a web font or replace the wordmark with an invented logo.",
+      "**Don't** add a sticky bottom bar.",
+      "**Don't** tint, outline, or shadow a service row on hover; only its arrow changes, from neutral to orange.",
+      "**Don't** use orange for anything that is not an action or the mower.",
+      "**Don't** put box-shadows on interface elements.",
+      "**Don't** use a black page ground.",
+      "**Don't** add small tracked uppercase labels or eyebrows above headings; the tracked \"Landscaping\" line belongs to the wordmark only."
+    ]
+  }
+}
