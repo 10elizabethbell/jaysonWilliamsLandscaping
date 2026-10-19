@@ -201,7 +201,7 @@ A two-ground green system (spruce dark, dew light) with a single hot orange and 
 **Character:** One family doing two jobs: a shouted, tightly tracked uppercase for the slogan and section heads, and plain conversational sentence case for everything a homeowner reads. The system stack is a sanctioned house-rule decision (no web font; no client logo exists, so the wordmark is set in this lettering).
 
 ### Hierarchy
-- **Display** (900, clamp 40px to 6rem; desktop clamp 4rem to 6.4rem; line-height 0.92, -0.02em, uppercase): the hero headline only, two lines that each stay on one line ("Your yard." / "Our work.").
+- **Display** (900, clamp 40px to 6rem; desktop clamp 4rem to 6.4rem; phone held sideways clamp 2.4rem to 3.4rem; line-height 0.92, -0.02em, uppercase): the hero headline only, two lines that each stay on one line ("Your yard." / "Our work.").
 - **Display Slogan** (900, clamp 28px to 5.2rem; desktop clamp 3rem to 4.4rem; 0.94, -0.03em, uppercase): the closing three-line slogan above the closing lawn.
 - **Headline** (900, clamp 1.9rem to 3rem, 0.98, -0.02em, uppercase): section heads (What we do, Getting a quote, Get a free quote.).
 - **Title** (800, 20px, 1.2): service row names; step titles at 800 19px/1.25.
