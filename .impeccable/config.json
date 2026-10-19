@@ -26,6 +26,15 @@
         ],
         "createdAt": "2026-10-19T11:44:05.228Z",
         "reason": "ruled .svc-list: hairline row dividers by design, rows carry 10px vertical padding"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T11:54:10.443Z",
+        "reason": "audit pass: body steps 16-22px sit under display steps 40-96px h1 and 30-48px h2; hierarchy carried by the display scale"
       }
     ]
   }
