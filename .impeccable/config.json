@@ -35,6 +35,72 @@
         ],
         "createdAt": "2026-10-19T11:54:10.443Z",
         "reason": "audit pass: body steps 16-22px sit under display steps 40-96px h1 and 30-48px h2; hierarchy carried by the display scale"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "11px",
+        "createdAt": "2026-10-19T12:00:25.805Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "34px",
+        "createdAt": "2026-10-19T12:00:25.877Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "19px",
+        "createdAt": "2026-10-19T12:00:25.948Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "2.4rem",
+        "createdAt": "2026-10-19T12:00:26.017Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "3.4rem",
+        "createdAt": "2026-10-19T12:00:26.090Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "18px",
+        "createdAt": "2026-10-19T12:00:26.160Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "4rem",
+        "createdAt": "2026-10-19T12:00:26.232Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "6.4rem",
+        "createdAt": "2026-10-19T12:00:26.304Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "22px",
+        "createdAt": "2026-10-19T12:00:26.374Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "4.4rem",
+        "createdAt": "2026-10-19T12:00:26.447Z",
+        "reason": "shipped step recorded in DESIGN.md by the documenter as a component/breakpoint size (wordmark, step numerals/titles, landscape and desktop display), not a ramp step"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "1px",
+        "createdAt": "2026-10-19T12:00:26.517Z",
+        "reason": "clipping-particle bits in the chip pop effect, not UI chrome"
       }
     ]
   }
