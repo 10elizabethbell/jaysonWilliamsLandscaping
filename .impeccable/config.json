@@ -1,0 +1,32 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "roboto",
+        "createdAt": "2026-10-19T11:44:05.078Z",
+        "reason": "pitch-site house rule (ellie-taste.md): system font stack; Roboto is only the Android fallback in that stack"
+      },
+      {
+        "rule": "repeating-stripes-gradient",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T11:44:05.153Z",
+        "reason": "lawn mowing-stripe no-JS fallback under the canvas; literal material of the site's world"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-19T11:44:05.228Z",
+        "reason": "ruled .svc-list: hairline row dividers by design, rows carry 10px vertical padding"
+      }
+    ]
+  }
+}
